@@ -12,20 +12,20 @@
 	"antiInbox": true,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "[ ^ ]-`ღ´🦋𝗠𝗲𝗹𝗶𝘀𝗮🍒🥂",
-	"prefix": "^",
+	"nickNameBot": "𝗥𝗢𝗨𝗣𝗞𝗢𝗧𝗔",
+	"prefix": "»",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"61557409693409",
-                "61569514522983",
+		"61580360798716",
+                "",
 
-		"61571421696077"
+		""
 	],
 	"nisanBot": [
-		"61568301181050"
+		"100087468194829"
 	],
 	"notes": "YOUR GROUP ID or Tid ID SET NOW , BECAUSE BOT LOGS MESSAGE SENT YOUR GROUP",
 	"whiteListMode": {
